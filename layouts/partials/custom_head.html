@@ -1,0 +1,110 @@
+<!-- Import programming fonts from Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    /* Custom color scheme - always dark with pinky accents */
+    --width: 720px;
+    --font-main: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', Monaco, Menlo, Consolas, 'Courier New', monospace;
+    --font-secondary: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', Monaco, Menlo, Consolas, 'Courier New', monospace;
+    --font-scale: 1em;
+    --background-color: #0a0a0a;
+    --heading-color: #ffffff;
+    --text-color: #e0e0e0;
+    --link-color: #ff69b4;
+    --visited-color: #e91e63;
+    --code-background-color: #1a1a1a;
+    --code-color: #e0e0e0;
+    --blockquote-color: #cccccc;
+  }
+
+  /* Override any media query preferences to always use our custom dark theme */
+  @media (prefers-color-scheme: light) {
+    :root {
+      --background-color: #0a0a0a;
+      --heading-color: #ffffff;
+      --text-color: #e0e0e0;
+      --link-color: #ff69b4;
+      --visited-color: #e91e63;
+      --code-background-color: #1a1a1a;
+      --code-color: #e0e0e0;
+      --blockquote-color: #cccccc;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #0a0a0a;
+      --heading-color: #ffffff;
+      --text-color: #e0e0e0;
+      --link-color: #ff69b4;
+      --visited-color: #e91e63;
+      --code-background-color: #1a1a1a;
+      --code-color: #e0e0e0;
+      --blockquote-color: #cccccc;
+    }
+  }
+
+  /* Additional styling for navigation links to ensure they use the pinky color */
+  nav a {
+    color: var(--link-color);
+    margin-right: 8px;
+  }
+
+  nav a:hover {
+    color: var(--visited-color);
+    text-decoration: underline;
+  }
+
+  /* Ensure the site title also looks good */
+  header .title h2 {
+    color: var(--heading-color);
+  }
+
+  /* Style the "Made with Hugo Bear" footer link */
+  footer a {
+    color: var(--link-color);
+  }
+
+  footer a:hover {
+    color: var(--visited-color);
+  }
+
+  /* Fix code blocks to match dark theme */
+  pre {
+    background-color: var(--code-background-color) !important;
+    color: var(--code-color) !important;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 16px;
+    overflow-x: auto;
+    line-height: 1.4;
+  }
+
+  pre code {
+    background-color: transparent !important;
+    color: var(--code-color) !important;
+    padding: 0;
+  }
+
+  /* Override syntax highlighting colors for dark theme */
+  .highlight pre {
+    background-color: var(--code-background-color) !important;
+  }
+
+  /* High contrast syntax highlighting for readability */
+  .highlight .k, .highlight .kn, .highlight .kd { color: #ff69b4 !important; } /* Keywords in bright pink */
+  .highlight .s, .highlight .s1, .highlight .s2 { color: #50fa7b !important; } /* Strings in bright green */
+  .highlight .n, .highlight .nf { color: #f8f8f2 !important; } /* Function names in bright white */
+  .highlight .c, .highlight .c1, .highlight .cm { color: #6272a4 !important; } /* Comments in blue-gray */
+  .highlight .nb { color: #8be9fd !important; } /* Built-ins in bright cyan */
+  .highlight .o { color: #ff79c6 !important; } /* Operators in light pink */
+  .highlight .mi, .highlight .m { color: #bd93f9 !important; } /* Numbers in bright purple */
+  
+  /* Ensure all code text has good contrast */
+  code, pre code {
+    color: #f8f8f2 !important;
+  }
+</style> 
