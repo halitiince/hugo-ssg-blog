@@ -37,7 +37,6 @@ When I'm not breaking production (kidding... mostly), you'll find me:
 
 **Currently exploring:**
 - System Design, Databases, AI Workflows
-- [FILL: Other technologies you're learning]
 
 ## Philosophy & Approach
 
@@ -45,7 +44,6 @@ When I'm not breaking production (kidding... mostly), you'll find me:
 function myApproach() {
     while (true) {
         learnSomethingNew();
-        breakThingsSafely();
         documentTheJourney();
         shareKnowledge();
         if (stuck) {
