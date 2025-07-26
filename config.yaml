@@ -1,4 +1,4 @@
-baseURL: "http://hugo-quickstart-template.netlify.com"
+baseURL: "https://halitince.netlify.app"
 languageCode: "en-us"
 title: "0xYNGTurq"
 theme: "hugo-bearblog"
