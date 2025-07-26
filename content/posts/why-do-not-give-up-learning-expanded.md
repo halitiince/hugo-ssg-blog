@@ -91,9 +91,6 @@ So why not give up?
 
 Here's the manifesto I created based on Hamming’s thoughts and my own reflections:
 
-🖼️ *[Insert poster image or link]*  
-📄 *[Download the PDF manifesto]*
-
 ---
 
 ## ✅ Closing Thoughts

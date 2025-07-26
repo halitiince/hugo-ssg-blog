@@ -34,6 +34,4 @@ if (conventional_thinking) {
 }
 ```
 
----
-
 **Warning**: This blog contains strong opinions, occasional rants, and code that might not follow best practices (yet). Proceed with curiosity. 🤓
