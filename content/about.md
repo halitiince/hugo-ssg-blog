@@ -56,12 +56,14 @@ function myApproach() {
 
 ## Work & Experience
 
-Currently trying to improve Instructor Experience at Udemy.
+Currently trying to improve Instructor Experience at Udemy by shipping new features and tools, solving legacy problems and killin' bugs.
 
 **Background:**
-- [FILL: Your education/previous roles]
-- [FILL: Notable projects or achievements]
-- [FILL: Years of experience in different areas]
+
+- **Software Engineer II at Udemy (April 2022 – Present)**
+- **Software Engineer at HAVELSAN (March 2021 – April 2022):** Worked on military command & control systems with Spring Boot tech stack. 
+- **Software Developer at InfinitumIT (August 2019 – September 2020):** Developed advanced security modules for CTI (Cyber Threat Intelligence), working with Python/Flask.
+- **Early Career & Internships:** Gained experience at Gais Cyber Security and HAVELSAN, working on everything from data providers to war simulation gateways and database modeling with Neo4j and PostgreSQL.
 
 ## Fun Facts
 

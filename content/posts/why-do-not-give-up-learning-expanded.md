@@ -1,15 +1,15 @@
 +++
 date = '2025-07-23T01:35:16+03:00'
 draft = false
-title = 'Why Do Not Give Up Learning'
+title = 'Why Do Not Give Up Learning?'
 description = 'Why Do Not Give Up Learning'
 tags = ['learning', 'education']
 categories = ['general']
 +++
 
-> Inspired by Richard Hamming’s *The Art of Doing Science and Engineering* book
+# Why Do Not Give Up Learning?
 
----
+> Inspired by Richard Hamming’s *The Art of Doing Science and Engineering* book
 
 ## 🎯 Introduction
 

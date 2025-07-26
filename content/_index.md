@@ -34,8 +34,6 @@ if (conventional_thinking) {
 }
 ```
 
-*"The best way to predict the future is to invent it."* - Alan Kay
-
 ---
 
 **Warning**: This blog contains strong opinions, occasional rants, and code that might not follow best practices (yet). Proceed with curiosity. 🤓
