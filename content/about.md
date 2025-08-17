@@ -65,13 +65,6 @@ Currently trying to improve Instructor Experience at Udemy by shipping new featu
 - **Software Developer at InfinitumIT (August 2019 – September 2020):** Developed advanced security modules for CTI (Cyber Threat Intelligence), working with Python/Flask.
 - **Early Career & Internships:** Gained experience at Gais Cyber Security and HAVELSAN, working on everything from data providers to war simulation gateways and database modeling with Neo4j and PostgreSQL.
 
-## Fun Facts
-
-- 🐛 Bugs created vs fixed ratio: Always improving
-- 📚 Favorite technical book: "The Art of Doing Science and Engineering" (obviously)
-- 🎯 Current obsession: Animes
-- 🌍 Dream coding destination: Japan
-
 ## Let's Connect
 
 Got questions? Want to argue about the best X about Y?
